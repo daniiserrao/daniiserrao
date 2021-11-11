@@ -1,7 +1,7 @@
 # Daniel Serrão
 
-Oceanógrafo.
-Estudante de programação.
+Oceanógrafo,
+Estudante de programação e
 Surfista.
 
 Conhecimentos em HTML, CSS, JavaScript.
