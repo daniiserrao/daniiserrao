@@ -1,2 +1,9 @@
-Código HTML para página inicial do Instagram.
-Desafio do curso HTML Web Developer da Digital Innovation One
+# Daniel Serrão
+
+Oceanógrafo.
+Estudante de programação.
+Surfista.
+
+Conhecimentos em HTML, CSS, JavaScript.
+
+Estudando JavaScript Moderno (ES6+) e React.
