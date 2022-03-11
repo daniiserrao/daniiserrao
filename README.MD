@@ -4,9 +4,9 @@ Oceanógrafo,
 Estudante de programação e
 Surfista.
 
-Conhecimentos em HTML, CSS, JavaScript.
+Conhecimentos em HTML, CSS, JavaScript, JavaScript Moderno (ES6+).
 
-Estudando JavaScript Moderno (ES6+) e React.
+Estudando Java e React.
 
 <div>
   <a href="https://github.com/daniiserrao">
