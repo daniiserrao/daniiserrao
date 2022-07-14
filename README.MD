@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/daniiserrao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniiserrao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiserrao&layout=compact&langs_count=3&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiserrao&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
     
 <div align="center" style="display: inline_block"><br>
