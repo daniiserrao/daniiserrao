@@ -6,9 +6,9 @@
 - Desenvolvedor Full Stack
 - Surfista
 
-:man_technologist: Conhecimentos em HTML, CSS, JavaScript, TypeScript.
+:man_technologist: Conhecimentos em HTML, CSS, JavaScript, TypeScript, Angular
 
-:books: Estudando Angular e Java.
+:books: Estudando Java e SpringBoot Framework.
 
 ##
 
